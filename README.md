@@ -1,4 +1,4 @@
-## Python — Week 8
+## Python – Week 8
 
 Welcome to Week 8 of my 9-week web development journey – diving deeper into Python with data structures and a mini challenge!
 
