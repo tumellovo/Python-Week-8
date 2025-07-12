@@ -14,7 +14,7 @@ This folder includes the following Python files:
 * `tuples.py` — Learning how fixed, immutable tuples differ from lists
 * `dictionaries.py` — Exploring key-value pairs using `{}` syntax
 * `sets.py` — Unique item collections and set methods
-* `shopping-cart.py` — A mini-project simulating a grocery cart app
+* `shopping_cart.py` — A mini-project simulating a grocery cart app
 
 ---
 
@@ -30,6 +30,7 @@ I initially struggled with logic structure and loop placement, but I stuck with 
 Interaction: I used the terminal to test and debug the shopping cart and data structure scripts.
 
 **Live Terminal Demo:**
+To try this out, download the `shopping_cart.py` file and run it using a Python interpreter in your terminal. 
 
 ---
 
